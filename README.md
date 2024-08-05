@@ -1,0 +1,2 @@
+# help_to_stop_neurotorture_at_medical-_universities-
+I am herby present excerpts from many researches that warns globe from Brain Control Technology. I am a victim. I look for help for myself and other victims(not less than like 200 people. I need to get evidence and stop this crime that takes place for years now. Please share link to this website or put it on other server.. Thank  you very much. :)
