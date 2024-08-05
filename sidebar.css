@@ -1,0 +1,36 @@
+
+.scrollbar_button 
+{
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-image: linear-gradient(180deg, #555555, #262626, #555555);
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-image 0.3s ease; 
+}
+
+.scrollbar_button:hover 
+{
+    background-image: linear-gradient(180deg, #292929, #181818, #292929); 
+}
+
+.button_container {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 15%;
+    height: 100%;
+    max-width: 15vw;
+    position: fixed;
+    top: 10px;
+    bottom: 10px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.button_container::-webkit-scrollbar {
+    display: none;
+}
